@@ -1,0 +1,16 @@
+name: markpdf
+description: Official Dart/Flutter SDK for the markpdf (Flash PDF to Markdown) API.
+version: 0.1.0
+homepage: https://markpdf.tech
+documentation: https://docs.markpdf.tech
+repository: https://github.com/markpdf/markpdf-dart
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  http: ^1.2.0
+
+dev_dependencies:
+  test: ^1.25.0
+  lints: ^3.0.0
